@@ -1,0 +1,14 @@
+path: dataset/Scene_images
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: Blood
+  1: Handgun
+  2: Shotgun
+  3: Knife
+  4: Hammer
+  5: Mobile_phone
+  6: Rope

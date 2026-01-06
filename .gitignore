@@ -1,0 +1,20 @@
+# YOLO outputs
+runs/
+
+# Dataset
+dataset/
+
+# Model weights
+*.pt
+
+# Images
+*.jpg
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
